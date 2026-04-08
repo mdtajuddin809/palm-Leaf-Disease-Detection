@@ -130,8 +130,7 @@ CLASS_NAMES = [
 #  MODEL PATHS  (must be in same folder as app.py)
 # ─────────────────────────────────────────────
 MODEL_PATHS = {
-    "Simple CNN":   "best_simple_cnn.h5",
-    "ResNet50":     "ResNet50.h5"
+    "Simple CNN":   "cnn_model.h5"
 }
 
 # ─────────────────────────────────────────────
